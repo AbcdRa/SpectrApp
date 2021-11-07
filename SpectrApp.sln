@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectrApp", "SpectrApp\SpectrApp.csproj", "{0C2ED417-C8C4-49AC-BA78-70C5C504EBA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2ED417-C8C4-49AC-BA78-70C5C504EBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2ED417-C8C4-49AC-BA78-70C5C504EBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2ED417-C8C4-49AC-BA78-70C5C504EBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2ED417-C8C4-49AC-BA78-70C5C504EBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52CA7565-734E-4158-B9F7-AE67E1602468}
+	EndGlobalSection
+EndGlobal
